@@ -1,4 +1,4 @@
-botik = '5833753029:AAHzM2t9nwX0mKvV-66QrsEDST93oJ4hryU' #токен бота, в @botfather надо получить его
+botik = '5833753029:AAGX_hH-dLVOqT3Kl7VYiuGJajRNBK0gEZE' #токен бота, в @botfather надо получить его
 contact_support = 'https://t.me/ElonRus' #контакт поддержки, контакт должен быть в виде ссылки
 admin_id = '5509031238' #id админа, можно получить в @getmyid_bot
 btc_wallet = 'типо кошелек' #btc кошелек сеть BEP20
